@@ -26,5 +26,7 @@ The website is designed to easily allow friends and family to keep up to date by
     * Written content should be clear and concise. Long blocks of text should be avoided. 
 
 ### Structure / Skeleton
+* __Wireframes__
+    * Home Page Wireframe. [Link to Home Page Wireframe](assets/wireframes/MP1-HomePage.pdf)
 
 ### Surface
