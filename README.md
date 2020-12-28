@@ -19,9 +19,12 @@ The website is designed to easily allow friends and family to keep up to date by
     * I want to be able to contact the couple with any questions I may have. 
 
 ### Scope
+* __Content Requirements__
+    * The colours have to be consistent and match the colour theme for the wedding (Navy / Blush). 
+    * All foreground information must be clear and presentable and not distracted by any background effects. 
+    * The home page must set an overarching theme and feel for the website. 
+    * Written content should be clear and concise. Long blocks of text should be avoided. 
 
 ### Structure / Skeleton
 
 ### Surface
-
-
