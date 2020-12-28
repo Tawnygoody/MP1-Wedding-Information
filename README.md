@@ -27,6 +27,6 @@ The website is designed to easily allow friends and family to keep up to date by
 
 ### Structure / Skeleton
 * __Wireframes__
-    * Home Page Wireframe. [Link to Home Page Wireframe](assets/wireframes/MP1-HomePage.pdf)
+    * Home Page Wireframe. [View](assets/wireframes/MP1-HomePage.pdf)
 
 ### Surface
