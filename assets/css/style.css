@@ -2,6 +2,46 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Pinyon+Script&display=swap');
 
-body {
+/* -------------Google fonts end--------------- */
+
+/* -------------Header--------------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#logo {
     font-family: "Pinyon Script", sans-serif;
+    color: #231B94;
+    text-decoration: none;
+    float: left;
+    font-size: 250%;
+    margin-left: 50px;
+}
+
+#navigation {
+    font-family: "Lato", sans-serif;
+    color: #231B94;
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#logo, #navigation {
+    line-height: 80px;
+}
+
+#navigation li {
+    float:right;
+    margin-right: 50px;
+}
+
+#navigation li a {
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    color: red;
 }
